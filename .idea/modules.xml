@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Allure.iml" filepath="$PROJECT_DIR$/.idea/modules/Allure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Allure_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Allure_main.iml" group="Allure" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Allure_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Allure_test.iml" group="Allure" />
+    </modules>
+  </component>
+</project>

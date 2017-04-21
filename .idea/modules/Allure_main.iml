@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Allure:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="ru.BugHunter" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.testng:testng:6.11" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-testng-adaptor:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.64" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.17" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-java-aspects:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-java-adaptor-api:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.aspectj:aspectjrt:1.8.3" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-java-annotations:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tika:tika-core:1.7" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-model:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jvnet.jaxb2_commons:jaxb2-basics-runtime:0.9.3" level="project" />
+    <orderEntry type="library" name="Gradle: ru.qatools.commons:properties:2.0.RC5" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.12" level="project" />
+  </component>
+</module>
